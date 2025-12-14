@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 你可以加入自己的全域 CSS，必要時可從元件抽出 */
